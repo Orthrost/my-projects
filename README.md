@@ -1,7 +1,7 @@
 # my-projects
 Test task
 
-For this project I used Maven, Spring framefork and H2 in-memeory database.
+For this project I used Maven, Spring framefork and H2 in-memory database.
 
 I ran into a problem running this project from the command line using jetty. The application works fine
 when I run it within eclipse using jetty. For some reason the neccessary bean cannot be defined when runnig from the command line.
