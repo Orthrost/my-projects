@@ -1,0 +1,12 @@
+com\testTask\form\CustomerForm.class
+com\testTask\dao\CustomerDao.class
+com\testTask\servlet\MyWebInitializer.class
+com\testTask\dao\CustomerDaoImpl$1.class
+com\testTask\model\Customer.class
+com\testTask\dao\CustomerDaoImpl.class
+com\testTask\config\SpringWebConfig.class
+com\testTask\form\CustomerChangeForm.class
+com\testTask\controller\MainController.class
+com\testTask\dao\CustomerDaoImpl$CustomerMapper.class
+com\testTask\config\SpringRootConfig.class
+com\testTask\validator\CustomerValidator.class
